@@ -1,3 +1,22 @@
+### Preview
+
+<img src="https://blog.kakaocdn.net/dn/TKNoj/btrVWxWV2HH/RCA8nkESavjlOFbAt2G9Jk/img.png"/>
+<img src="https://blog.kakaocdn.net/dn/Z4w4j/btrVZV3KXJn/B1pZPdh81IwAjuUBWdL1Rk/img.png"/>
+
+# Demo
+
+Demo Link : https://lambent-lily-149f31.netlify.app/
+
+### src/Component/myNavbar.js
+
+▶ 상단의 반응형 Navbar가 작성된 파일. 
+
+### src/Page/Combined.js 
+
+▶ 상단의 고정 NavBar와 각 페이지들을 합치는 역할의 페이지. 
+▶ 이곳에 id를 설정해야 myNavbar.js에서 id를 인식하여 이동할 수 있습니다.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
